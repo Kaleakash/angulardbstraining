@@ -1,0 +1,14 @@
+Steps 
+
+1. Install the node js ---> ie exe file 
+2. Open the command prompt and check node version as well as npm version.
+3. node --version 
+4. npm --version 
+5. Then install angular using the command as 
+6. npm install -g @angular/cli 
+7. Create new angular project 
+8. ng new angular-demo 
+9. to run the angular project. First move inside a project folder and run the command as 
+10. cd angular-demo 
+11. ng serve 
+12. then open the project in vs code ide. 
